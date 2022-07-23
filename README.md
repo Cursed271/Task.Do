@@ -30,7 +30,7 @@ Start Task.Do
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/CursedCancer/Task.Do/blob/main/assets/Main%20Menu.png)
 
 ## Authors
 
